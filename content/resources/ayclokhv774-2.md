@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-012-introduction-to-probability-spring-2018/87c881b56d7a5f95862b85731d543ef5_AyCLokHV774.vtt
+file: /media/courses/res-6-012-introduction-to-probability-spring-2018/87c881b56d7a5f95862b85731d543ef5_AyCLokHV774.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 87c881b5-6d7a-5f95-862b-85731d543ef5

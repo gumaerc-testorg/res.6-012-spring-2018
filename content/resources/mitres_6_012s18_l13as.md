@@ -3,8 +3,12 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   The fundamentals:  Conditional expectation & variance revisited; sum of a random
   number of independent R.V.s'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-012-introduction-to-probability-spring-2018/b343ddecdd393da2822aecd2608eb5f0_MITRES_6_012S18_L13AS.pdf
+file: /media/courses/res-6-012-introduction-to-probability-spring-2018/b343ddecdd393da2822aecd2608eb5f0_MITRES_6_012S18_L13AS.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Part I: The Fundamentals'
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: 'Lecture 13: Conditional Expectation & Variance Revisited; Sum of a Random
   Number of Independent R.V.s'

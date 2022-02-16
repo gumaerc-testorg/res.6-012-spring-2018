@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-012-introduction-to-probability-spring-2018/29d52a54e44b1851fd56db8ff8ab7506_J8L9kRGSvSY.pdf
+file: /media/courses/res-6-012-introduction-to-probability-spring-2018/29d52a54e44b1851fd56db8ff8ab7506_J8L9kRGSvSY.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 29d52a54-e44b-1851-fd56-db8ff8ab7506

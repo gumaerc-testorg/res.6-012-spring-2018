@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part II: Inference & Limit Theorems'
 uid: b8cdf274-e2b0-f826-62e4-cd137e85d308
 ---

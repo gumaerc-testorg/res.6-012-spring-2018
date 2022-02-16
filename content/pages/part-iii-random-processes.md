@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part III: Random Processes'
 uid: ea0e960c-7d6b-b5ec-3c28-c2657fe85c0d
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part I: The Fundamentals'
 uid: 9ca6b310-dc93-095c-9ac0-f0e5f95e6930
 ---
