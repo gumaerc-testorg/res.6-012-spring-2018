@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: LMS Estimation with Multiple Observations or Unknowns
 uid: abe9ec23-2e75-cf5a-f1fb-3a94a5058b3e
 video_files:

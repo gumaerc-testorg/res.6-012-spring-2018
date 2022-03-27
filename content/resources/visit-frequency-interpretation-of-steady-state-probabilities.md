@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Visit Frequency Interpretation of Steady-State Probabilities
 uid: e0ffcf2c-fe4f-27eb-69f8-7cded62d51e4
 video_files:

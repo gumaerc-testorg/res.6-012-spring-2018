@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part III: Random Processes'
 parent_type: SupplementalResourceSection
+parent_uid: ea0e960c-7d6b-b5ec-3c28-c2657fe85c0d
 resourcetype: Document
 title: 'Introduction to Probability: Lecture 25: Steady-State Behavior of Markov Chains'
 uid: 09bd70b5-054b-edc5-3d6a-6bcf006c6697

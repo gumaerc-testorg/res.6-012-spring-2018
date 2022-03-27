@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part I: The Fundamentals'
 parent_type: SupplementalResourceSection
+parent_uid: 9ca6b310-dc93-095c-9ac0-f0e5f95e6930
 resourcetype: Document
 title: 'Introduction to Probability: Lecture 9: Continuous Random Variables Part II'
 uid: 5980d218-9c90-a96b-ddc1-2b2f22691350

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part I: The Fundamentals'
 parent_type: SupplementalResourceSection
+parent_uid: 9ca6b310-dc93-095c-9ac0-f0e5f95e6930
 resourcetype: Document
 title: 'Introduction to Probability: Lecture 1 Supplement: Mathematical Background'
 uid: 5620e9f8-6ac9-4f9c-87a1-1a523e8ed57f

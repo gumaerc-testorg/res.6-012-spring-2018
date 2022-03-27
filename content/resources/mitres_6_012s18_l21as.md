@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part III: Random Processes'
 parent_type: SupplementalResourceSection
+parent_uid: ea0e960c-7d6b-b5ec-3c28-c2657fe85c0d
 resourcetype: Document
 title: 'Introduction to Probability: Lecture 21: The Bernoulli Process'
 uid: 64ea7536-2ae2-fa78-c076-6c4f17120006

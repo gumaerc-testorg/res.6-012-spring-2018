@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part I: The Fundamentals'
 parent_type: SupplementalResourceSection
+parent_uid: 9ca6b310-dc93-095c-9ac0-f0e5f95e6930
 resourcetype: Document
 title: Introduction to Probability, Selected Textbook Summary Material
 uid: d973b10c-2587-781f-86ca-4f2aff49098f

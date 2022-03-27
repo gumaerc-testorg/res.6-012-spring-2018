@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part III: Random Processes'
 parent_type: SupplementalResourceSection
+parent_uid: ea0e960c-7d6b-b5ec-3c28-c2657fe85c0d
 resourcetype: Document
 title: 'Introduction to Probability: Lecture 23: The Poisson Process Part II'
 uid: 4d1f5b7c-c32c-8b57-bcd2-d9177e244c2b

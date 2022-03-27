@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part I: The Fundamentals'
 parent_type: SupplementalResourceSection
+parent_uid: 9ca6b310-dc93-095c-9ac0-f0e5f95e6930
 resourcetype: Document
 title: 'Lecture 12: Sum of Independent R.V.s. Covariance and Correlation'
 uid: 43688005-bed2-34bd-40bd-999388b1101c
