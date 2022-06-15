@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   The fundamentals: Independence.'
-file: /media/courses/res-6-012-introduction-to-probability-spring-2018/b252f66a64dfdfeba5387696f78c1039_MITRES_6_012S18_L03AS.pdf
+file: /courses/res-6-012-introduction-to-probability-spring-2018/b252f66a64dfdfeba5387696f78c1039_MITRES_6_012S18_L03AS.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 'Introduction to Probability: Lecture 3: Independence'
 uid: b252f66a-64df-dfeb-a538-7696f78c1039
 ---
+This resource contains information regarding introduction to probability: The fundamentals: Independence.
+

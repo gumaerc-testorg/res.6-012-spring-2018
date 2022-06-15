@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   Random processes: The Bernoulli process.'
-file: /media/courses/res-6-012-introduction-to-probability-spring-2018/64ea75362ae2fa78c0766c4f17120006_MITRES_6_012S18_L21AS.pdf
+file: /courses/res-6-012-introduction-to-probability-spring-2018/64ea75362ae2fa78c0766c4f17120006_MITRES_6_012S18_L21AS.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 'Introduction to Probability: Lecture 21: The Bernoulli Process'
 uid: 64ea7536-2ae2-fa78-c076-6c4f17120006
 ---
+This resource contains information regarding introduction to probability: Random processes: The Bernoulli process.
+

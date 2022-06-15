@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   The fundamentals: Continuous random variables part III.'
-file: /media/courses/res-6-012-introduction-to-probability-spring-2018/946d2279e52c1a448ecb0c53c54bcefc_MITRES_6_012S18_L10AS.pdf
+file: /courses/res-6-012-introduction-to-probability-spring-2018/946d2279e52c1a448ecb0c53c54bcefc_MITRES_6_012S18_L10AS.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,5 @@ title: 'Introduction to Probability: Lecture 10: Continuous Random Variables Par
   III'
 uid: 946d2279-e52c-1a44-8ecb-0c53c54bcefc
 ---
+This resource contains information regarding introduction to probability: The fundamentals: Continuous random variables part III.
+
