@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   The fundamentals: Probability models and axioms.'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/4da14680987c076bd5aa2860da2d1afb_MITRES_6_012S18_L01AS.pdf
+file_size: 1068285
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

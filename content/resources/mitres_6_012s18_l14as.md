@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   Inference & limit theorems: Introduction to Bayesian inference.'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/7c553fc6efe7e82a70f96adab0be9ff5_MITRES_6_012S18_L14AS.pdf
+file_size: 1326995
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

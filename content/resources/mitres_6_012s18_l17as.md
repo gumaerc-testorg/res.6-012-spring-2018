@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   Inference & limit theorems: Linear least mean squares (LLMS) estimation.'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/2e009499f8b84dc3cdc1363dfb299399_MITRES_6_012S18_L17AS.pdf
+file_size: 1251713
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

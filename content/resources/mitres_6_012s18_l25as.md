@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   Random processes: Steady-state behavior of Markov chains.'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/09bd70b5054bedc53d6a6bcf006c6697_MITRES_6_012S18_L25AS.pdf
+file_size: 1301589
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

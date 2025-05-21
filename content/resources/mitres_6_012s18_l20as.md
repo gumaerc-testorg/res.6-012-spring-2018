@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   Inference & limit theorems: An introduction to classical statistics.'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/e926c7b7ff184dec8f275046f6f14662_MITRES_6_012S18_L20AS.pdf
+file_size: 964130
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

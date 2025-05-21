@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   Inference & limit theorems: Linear models with normal noise.'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/851c9ee1454e7a370a04b385923a9ce5_MITRES_6_012S18_L15AS.pdf
+file_size: 1884863
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

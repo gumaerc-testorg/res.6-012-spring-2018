@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   Random processes: The Poisson process part II.'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/4d1f5b7cc32c8b57bcd2d9177e244c2b_MITRES_6_012S18_L23AS.pdf
+file_size: 1262958
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
