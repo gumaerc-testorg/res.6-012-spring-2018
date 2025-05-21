@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   The fundamentals: Sum of independent R.V.s. covariance and correlation.'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/43688005bed234bd40bd999388b1101c_MITRES_6_012S18_L12AS.pdf
+file_size: 941988
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

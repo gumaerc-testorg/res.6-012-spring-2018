@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   Random processes: Finite-state Markov chains.'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/b6df3134854be35c002ca7ba9991d428_MITRES_6_012S18_L24AS.pdf
+file_size: 1071838
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

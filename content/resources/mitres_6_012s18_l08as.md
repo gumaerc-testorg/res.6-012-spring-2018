@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   The fundamentals:  Continuous random variables part I.'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/07111f75b2df903f45a70b52847c0d39_MITRES_6_012S18_L08AS.pdf
+file_size: 1235744
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

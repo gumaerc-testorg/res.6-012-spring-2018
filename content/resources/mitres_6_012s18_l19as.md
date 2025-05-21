@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   Inference & limit theorems: The central limit theorem (CLT).'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/e813264f9fc161fe2146e0cf552d75c4_MITRES_6_012S18_L19AS.pdf
+file_size: 2126452
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
