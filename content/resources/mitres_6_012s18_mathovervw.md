@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   The fundamentals: Mathematical background.'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/5620e9f86ac94f9c87a11a523e8ed57f_MITRES_6_012S18_MathOvervw.pdf
+file_size: 788451
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

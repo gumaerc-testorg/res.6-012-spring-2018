@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-6-012-introduction-to-probability-spring-2018/4de782884e8c5b7ebc0f0c0000a2b53e_bXmDp8R8n8U.vtt
+file_size: 5071
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

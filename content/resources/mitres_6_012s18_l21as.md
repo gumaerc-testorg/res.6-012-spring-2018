@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   Random processes: The Bernoulli process.'
 file: /courses/res-6-012-introduction-to-probability-spring-2018/64ea75362ae2fa78c0766c4f17120006_MITRES_6_012S18_L21AS.pdf
+file_size: 1364309
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
