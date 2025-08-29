@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-6-012-introduction-to-probability-spring-2018/e037321b6080610c866ae62d10f2d8db_kz2tvO_ZAKI.pdf
+file: /ol-ocw-studio-app/courses/res-6-012-introduction-to-probability-spring-2018/e037321b6080610c866ae62d10f2d8db_kz2tvO_ZAKI.pdf
 file_size: 15877
 file_type: application/pdf
 learning_resource_types: []
