@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-6-012-introduction-to-probability-spring-2018/61ac903fb4e6508d815a85ea53bffb76_KdAsNQVdaNk.vtt
+file: /ol-ocw-studio-app/courses/res-6-012-introduction-to-probability-spring-2018/61ac903fb4e6508d815a85ea53bffb76_KdAsNQVdaNk.vtt
 file_size: 10597
 file_type: application/x-subrip
 learning_resource_types: []
