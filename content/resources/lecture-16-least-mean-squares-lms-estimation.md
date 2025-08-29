@@ -1,10 +1,10 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding introduction to probability:
-  Inference & limit theorems: Linear least mean squares (LLMS) estimation.'
+  Inference & limit theorems: Least mean squares (LMS) estimation.'
 draft: false
-file: /ol-ocw-studio-app/courses/res-6-012-introduction-to-probability-spring-2018/9d742a5918eff71058ba4251e74f8334_MITRES_6_012S18_L17.pdf
-file_size: 1040411
+file: /ol-ocw-studio-app/courses/res-6-012-introduction-to-probability-spring-2018/dcd2a9f78b20e201f3c8d1ad8d4a854f_MITRES_6_012S18_L16AS.pdf
+file_size: 1285483
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -18,8 +18,8 @@ parent_title: 'Part II: Inference & Limit Theorems'
 parent_type: SupplementalResourceSection
 parent_uid: b8cdf274-e2b0-f826-62e4-cd137e85d308
 resourcetype: Document
-title: 'Lecture 17: Linear Least Mean Squares (LLMS) Estimation'
-uid: 9d742a59-18ef-f710-58ba-4251e74f8334
+title: 'Lecture 16: Least Mean Squares (LMS) Estimation'
+uid: dcd2a9f7-8b20-e201-f3c8-d1ad8d4a854f
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -32,4 +32,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This resource contains information regarding introduction to probability: Inference & limit theorems: Linear least mean squares (LLMS) estimation.
+This resource contains information regarding introduction to probability: Inference & limit theorems: Least mean squares (LMS) estimation.

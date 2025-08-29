@@ -3,8 +3,8 @@ content_type: resource
 description: 'This resource contains information regarding introduction to probability:
   Inference & limit theorems: Linear least mean squares (LLMS) estimation.'
 draft: false
-file: /ol-ocw-studio-app/courses/res-6-012-introduction-to-probability-spring-2018/9d742a5918eff71058ba4251e74f8334_MITRES_6_012S18_L17.pdf
-file_size: 1040411
+file: /ol-ocw-studio-app/courses/res-6-012-introduction-to-probability-spring-2018/2e009499f8b84dc3cdc1363dfb299399_MITRES_6_012S18_L17AS.pdf
+file_size: 1251713
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -19,7 +19,7 @@ parent_type: SupplementalResourceSection
 parent_uid: b8cdf274-e2b0-f826-62e4-cd137e85d308
 resourcetype: Document
 title: 'Lecture 17: Linear Least Mean Squares (LLMS) Estimation'
-uid: 9d742a59-18ef-f710-58ba-4251e74f8334
+uid: 2e009499-f8b8-4dc3-cdc1-363dfb299399
 video_files:
   archive_url: ''
   video_captions_file: ''

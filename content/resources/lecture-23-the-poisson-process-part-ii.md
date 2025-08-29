@@ -1,10 +1,10 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding introduction to probability:
-  Inference & limit theorems: Linear least mean squares (LLMS) estimation.'
+  Random processes: The Poisson process part II.'
 draft: false
-file: /ol-ocw-studio-app/courses/res-6-012-introduction-to-probability-spring-2018/9d742a5918eff71058ba4251e74f8334_MITRES_6_012S18_L17.pdf
-file_size: 1040411
+file: /ol-ocw-studio-app/courses/res-6-012-introduction-to-probability-spring-2018/4d1f5b7cc32c8b57bcd2d9177e244c2b_MITRES_6_012S18_L23AS.pdf
+file_size: 1262958
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -14,12 +14,12 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: 'Part II: Inference & Limit Theorems'
+parent_title: 'Part III: Random Processes'
 parent_type: SupplementalResourceSection
-parent_uid: b8cdf274-e2b0-f826-62e4-cd137e85d308
+parent_uid: ea0e960c-7d6b-b5ec-3c28-c2657fe85c0d
 resourcetype: Document
-title: 'Lecture 17: Linear Least Mean Squares (LLMS) Estimation'
-uid: 9d742a59-18ef-f710-58ba-4251e74f8334
+title: 'Lecture 23: The Poisson Process Part II'
+uid: 4d1f5b7c-c32c-8b57-bcd2-d9177e244c2b
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -32,4 +32,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This resource contains information regarding introduction to probability: Inference & limit theorems: Linear least mean squares (LLMS) estimation.
+This resource contains information regarding introduction to probability: Random processes: The Poisson process part II.

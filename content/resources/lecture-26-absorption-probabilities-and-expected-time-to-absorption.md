@@ -1,10 +1,10 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding introduction to probability:
-  Inference & limit theorems: Linear least mean squares (LLMS) estimation.'
+  Random processes: Absorption probabilities and expected time to absorption.'
 draft: false
-file: /ol-ocw-studio-app/courses/res-6-012-introduction-to-probability-spring-2018/9d742a5918eff71058ba4251e74f8334_MITRES_6_012S18_L17.pdf
-file_size: 1040411
+file: /ol-ocw-studio-app/courses/res-6-012-introduction-to-probability-spring-2018/d31b560378553e2f48e3d4fbc378aedd_MITRES_6_012S18_L26AS.pdf
+file_size: 1273398
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -14,12 +14,12 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: 'Part II: Inference & Limit Theorems'
+parent_title: 'Part III: Random Processes'
 parent_type: SupplementalResourceSection
-parent_uid: b8cdf274-e2b0-f826-62e4-cd137e85d308
+parent_uid: ea0e960c-7d6b-b5ec-3c28-c2657fe85c0d
 resourcetype: Document
-title: 'Lecture 17: Linear Least Mean Squares (LLMS) Estimation'
-uid: 9d742a59-18ef-f710-58ba-4251e74f8334
+title: 'Lecture 26: Absorption Probabilities and Expected Time to Absorption'
+uid: d31b5603-7855-3e2f-48e3-d4fbc378aedd
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -32,4 +32,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This resource contains information regarding introduction to probability: Inference & limit theorems: Linear least mean squares (LLMS) estimation.
+This resource contains information regarding introduction to probability: Random processes: Absorption probabilities and expected time to absorption.
