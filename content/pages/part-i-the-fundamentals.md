@@ -10,7 +10,7 @@ uid: 9ca6b310-dc93-095c-9ac0-f0e5f95e6930
 
 The videos in Part I introduce the general framework of probability models, multiple discrete or continuous random variables, expectations, conditional distributions, and various powerful tools of general applicability.
 
-The textbook for this subject is Bertsekas, Dimitri, and John Tsitsiklis. _Introduction to Probability._ 2nd ed. [Athena Scientific](http://www.athenasc.com/), 2008. ISBN: 9781886529236.
+The textbook for this subject is Bertsekas, Dimitri, and John Tsitsiklis. _Introduction to Probability._ 2nd ed. {{% resource_link "235f7ece-0c21-4b62-94ac-2efec62450d2" "Athena Scientific" %}}, 2008. ISBN: 9781886529236.
 
 The authors have made this {{% resource_link d973b10c-2587-781f-86ca-4f2aff49098f "Selected Summary Material (PDF)" %}} available for OCW users.
 

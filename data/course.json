@@ -28,7 +28,7 @@
   },
   "course_title": "Introduction to Probability",
   "hide_download": false,
-  "course_description": "The tools of probability theory, and of the related field of statistical inference, are the keys for being able to analyze and make sense of data. These tools underlie important advances in many fields, from the basic sciences to engineering and management.\n\nThis resource is a companion site to [6.041SC Probabilistic Systems Analysis and Applied Probability](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/). It covers the same content, using videos developed for an [edX](https://www.edx.org/) version of the course.\n",
+  "course_description": "The tools of probability theory, and of the related field of statistical inference, are the keys for being able to analyze and make sense of data. These tools underlie important advances in many fields, from the basic sciences to engineering and management.\n\nThis resource is a companion site to [6.041SC Probabilistic Systems Analysis and Applied Probability](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/). It covers the same content, using videos developed for an {{% resource_link \"3d845e0c-2c32-4fde-ac02-a35eb0c5a164\" \"edX\" %}} version of the course.\n",
   "department_numbers": [
     "6"
   ],
