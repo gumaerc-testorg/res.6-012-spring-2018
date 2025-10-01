@@ -9,7 +9,7 @@ uid: ea0e960c-7d6b-b5ec-3c28-c2657fe85c0d
 
 The videos in Part III provide an introduction to both classical statistical methods and to random processes (Poisson processes and Markov chains).
 
-The textbook for this subject is Bertsekas, Dimitri, and John Tsitsiklis. _Introduction to Probability._ 2nd ed. [Athena Scientific](http://www.athenasc.com/), 2008. ISBN: 9781886529236.
+The textbook for this subject is Bertsekas, Dimitri, and John Tsitsiklis. _Introduction to Probability._ 2nd ed. {{% resource_link "235f7ece-0c21-4b62-94ac-2efec62450d2" "Athena Scientific" %}}, 2008. ISBN: 9781886529236.
 
 The authors have made this {{% resource_link d973b10c-2587-781f-86ca-4f2aff49098f "Selected Summary Material (PDF)" %}} available for OCW users.
 
